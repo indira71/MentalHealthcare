@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MENTAL HEALTH CARE</string>
+    <string name="nameapk">Name_exercise</string>
+    <string-array name="data_name">
+        <item>Reading</item>
+        <item>Meditate</item>
+        <item>Cooking</item>
+        <item>Stretch</item>
+        <item>Playing Game</item>
+        <item>Jogging</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Spark your creativity or inspiration reading books</item>
+        <item>Enhance your focus and empathy</item>
+        <item>Experiment with different ingredients to make perfect dish</item>
+        <item>Keep your muscles flexible, strong and healthy</item>
+        <item>play games with your friends</item>
+        <item>The effect of exercise on mental health can help people with depression and anxiety feel better.</item>
+    </string-array>
+    <array name="data_photo">
+        <item>@drawable/reading</item>
+        <item>@drawable/cook</item>
+        <item>@drawable/medi</item>
+        <item>@drawable/talk</item>
+        <item>@drawable/yoga</item>
+        <item>@drawable/running</item>
+    </array>
+    <string name="in_this_inc">
+        In this increasingly modern world, many people are starting to care about the importance of maintaining health. Increasing public awareness of health is not limited to physical health, but people are also starting to care about mental health. Because maintaining mental health is not only useful for preventing mental disorders, but can help you become healthier overall. Mental health itself includes emotional, psychological, and social well-being in one\'s life. This can affect the way a person thinks, feels, and acts. Mental health also makes it easier for you to determine how you handle stress, relate to other people, and make choices. So maintaining mental health is important at every stage of life, from childhood and youth to adulthood.
+</string>
+
+</resources>
